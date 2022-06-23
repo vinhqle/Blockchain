@@ -1,0 +1,1 @@
+Học phát triển hợp đồng thông minh trên nền tảng Ethereum và ngôn ngữ Solidity.
